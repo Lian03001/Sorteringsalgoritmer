@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
+using System.Threading;
 
 namespace ConsoleApp13
 {
@@ -25,17 +27,29 @@ namespace ConsoleApp13
         }
         static void Main(string[] args)
         {
+            Stopwatch stopWatch = new Stopwatch();
             var random = new Random();
             var tallista = new List<int>();
-            for (int x = 0; x < 10000; x++)
+            for (int x = 0; x < 50000; x++)
             {
-                tallista.Add(random.Next(10000));
+                tallista.Add(random.Next(50000));
             }
 
+            stopWatch.Start();
             Bubblesort(tallista);
+            stopWatch.Stop();
 
             foreach (int i in tallista)
                 Console.WriteLine(i);
+
+            // Get the elapsed time as a TimeSpan value.
+            TimeSpan ts = stopWatch.Elapsed;
+
+            // Format and display the TimeSpan value.
+            string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+                ts.Hours, ts.Minutes, ts.Seconds,
+                ts.Milliseconds / 10);
+            Console.WriteLine("RunTime " + elapsedTime);
 
         }
     }
