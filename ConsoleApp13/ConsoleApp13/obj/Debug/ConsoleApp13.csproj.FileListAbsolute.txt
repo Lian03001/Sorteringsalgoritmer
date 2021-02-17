@@ -5,3 +5,10 @@ C:\Users\Elev\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.cspr
 C:\Users\Elev\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
 C:\Users\Elev\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
 C:\Users\Elev\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\Linus\Source\Repos\Sorteringsalgoritmer\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Linus\Source\Repos\Sorteringsalgoritmer\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\Linus\Source\Repos\Sorteringsalgoritmer\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\Linus\Source\Repos\Sorteringsalgoritmer\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\Linus\Source\Repos\Sorteringsalgoritmer\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Linus\Source\Repos\Sorteringsalgoritmer\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Linus\Source\Repos\Sorteringsalgoritmer\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
