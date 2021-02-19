@@ -1,0 +1,13 @@
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\bin\Debug\netcoreapp3.1\MergeSort (.NET Core).exe
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\bin\Debug\netcoreapp3.1\MergeSort (.NET Core).deps.json
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\bin\Debug\netcoreapp3.1\MergeSort (.NET Core).runtimeconfig.json
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\bin\Debug\netcoreapp3.1\MergeSort (.NET Core).runtimeconfig.dev.json
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\bin\Debug\netcoreapp3.1\MergeSort (.NET Core).dll
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\bin\Debug\netcoreapp3.1\MergeSort (.NET Core).pdb
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\obj\Debug\netcoreapp3.1\MergeSort (.NET Core).csprojAssemblyReference.cache
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\obj\Debug\netcoreapp3.1\MergeSort (.NET Core).AssemblyInfoInputs.cache
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\obj\Debug\netcoreapp3.1\MergeSort (.NET Core).AssemblyInfo.cs
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\obj\Debug\netcoreapp3.1\MergeSort (.NET Core).csproj.CoreCompileInputs.cache
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\obj\Debug\netcoreapp3.1\MergeSort (.NET Core).dll
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\obj\Debug\netcoreapp3.1\MergeSort (.NET Core).pdb
+C:\Users\Linus\source\repos\MergeSort (.NET Core)\MergeSort (.NET Core)\obj\Debug\netcoreapp3.1\MergeSort (.NET Core).genruntimeconfig.cache
