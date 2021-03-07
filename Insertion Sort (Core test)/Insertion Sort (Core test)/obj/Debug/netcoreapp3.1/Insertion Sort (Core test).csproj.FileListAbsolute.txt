@@ -1,0 +1,13 @@
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\bin\Debug\netcoreapp3.1\Insertion Sort (Core test).exe
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\bin\Debug\netcoreapp3.1\Insertion Sort (Core test).deps.json
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\bin\Debug\netcoreapp3.1\Insertion Sort (Core test).runtimeconfig.json
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\bin\Debug\netcoreapp3.1\Insertion Sort (Core test).runtimeconfig.dev.json
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\bin\Debug\netcoreapp3.1\Insertion Sort (Core test).dll
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\bin\Debug\netcoreapp3.1\Insertion Sort (Core test).pdb
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\obj\Debug\netcoreapp3.1\Insertion Sort (Core test).csprojAssemblyReference.cache
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\obj\Debug\netcoreapp3.1\Insertion Sort (Core test).AssemblyInfoInputs.cache
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\obj\Debug\netcoreapp3.1\Insertion Sort (Core test).AssemblyInfo.cs
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\obj\Debug\netcoreapp3.1\Insertion Sort (Core test).csproj.CoreCompileInputs.cache
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\obj\Debug\netcoreapp3.1\Insertion Sort (Core test).dll
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\obj\Debug\netcoreapp3.1\Insertion Sort (Core test).pdb
+C:\Users\Linus\source\repos\Insertion Sort (Core test)\Insertion Sort (Core test)\obj\Debug\netcoreapp3.1\Insertion Sort (Core test).genruntimeconfig.cache
